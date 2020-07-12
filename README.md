@@ -1,7 +1,7 @@
 ### Hey there and welcome to my attempt at social media 👋
 
 - 🔗 [enewnham.github.io](https://enewnham.github.io/)
-- 📫 at `elliot.newnham@gmail.com` or we can talk in git issues I guess?
+- 📫 `elliot.newnham@gmail.com` or we can talk in git issues I guess?
 <!--
 **enewnham/enewnham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
