@@ -4,7 +4,7 @@
 
 <img src="drive-thru-menu-boards.png" alt="Display" width="350px">
 
-I work on embedded microcontrollers, databases, backend-microservices, and front-end GUIs.
+I work on embedded micro-controllers, databases, backend-microservices, and front-end GUIs.
 
 ---
 - 🔗 [enewnham.github.io](https://enewnham.github.io/)
