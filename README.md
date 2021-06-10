@@ -1,6 +1,6 @@
 ## Hi! I'm Elliot
 
-🔭 I'm a software engineer working on an expansive distributed IOT micro-services system monitoring High-Performance LCD Displays for Outdoor Environments
+🔭 I'm a software engineer working on an expansive distributed IoT micro-services system monitoring High-Performance LCD Displays for Outdoor Environments
 
 <img src="drive-thru-menu-boards.png" alt="Display" width="350px">
 
