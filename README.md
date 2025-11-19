@@ -1,7 +1,6 @@
 ## Hi! I'm Elliot
 
-🔭 I'm a distributed backend software engineer working at mParticle!
+🔭 I'm a distributed backend software engineer working at mParticle by Rokt!
 
 ---
-- 🔗 [enewnham.github.io](https://enewnham.github.io/)
 - 📫 `elliot.newnham@gmail.com`
